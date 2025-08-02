@@ -1,0 +1,17 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "Farcaster Trending Topics",
+    "description": "See trending Farcaster topics in real-time.",
+    "iconUrl": "https://farcaster-eight.vercel.app/icon.png",
+    "homeUrl": "https://farcaster-eight.vercel.app",
+    "splashImageUrl": "https://farcaster-eight.vercel.app/splash.png",
+    "splashBackgroundColor": "#8A63D2",
+    "primaryCategory": "utility",
+    "tags": ["trending", "social", "topics"],
+    "subtitle": "What's trending on Farcaster?",
+    "ogTitle": "Trending on Farcaster",
+    "ogDescription": "Explore what's hot on Farcaster right now!",
+    "ogImageUrl": "https://farcaster-eight.vercel.app/icon.png"
+  }
+}
